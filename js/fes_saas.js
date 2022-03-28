@@ -49,7 +49,7 @@ login().then(() => {
 		//callbacks -- inserted here --
 
 		//open apps -- inserted here --
-		AppIdDev = 'be0ff170-1c37-4ba0-aba1-cf596af61f1e';
+		AppIdDev = '1cc2c33d-4f54-4a9a-879b-3dea21219a4d';
 		appId = '1cc2c33d-4f54-4a9a-879b-3dea21219a4d';
 		const app = qlik.openApp(AppIdDev, config);
 
