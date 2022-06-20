@@ -165,7 +165,7 @@ login().then(() => {
 			html = "<!-- Consolidated Income Statement -->" +
 				'<div class="flex-container print_scale item-margin report-description">' +
 				'<h3>MALAWI OPERATING EXPENSES ($USD)</h3>' +
-				'<div id="' + thisID + '" class="qvplaceholder item-height-2500k" ></div>' +
+				'<div id="' + thisID + '" class="qvplaceholder item-height-2250k" ></div>' +
 				'</div>';
 
 			$("#report-malawi").append(html);
@@ -260,7 +260,7 @@ login().then(() => {
 			html = "<!-- Consolidated Income Statement -->" +
 				'<div class="flex-container print_scale item-margin report-description">' +
 				'<h3>ZAMBIA OPERATING EXPENSES ($USD)</h3>' +
-				'<div id="' + thisID + '" class="qvplaceholder item-height-2500k" ></div>' +
+				'<div id="' + thisID + '" class="qvplaceholder item-height-2250k" ></div>' +
 				'</div>';
 
 			$("#report-zambia").append(html);
