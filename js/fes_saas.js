@@ -227,7 +227,7 @@ login().then(() => {
 			html = "<!-- Consolidated Income Statement -->" +
 				'<div class="flex-container print_scale item-margin report-description">' +
 				'<h3>ZAMBIA INCOME STATEMENT ($USD)</h3>' +
-				'<div id="' + thisID + '" class="qvplaceholder item-height-1000k" ></div>' +
+				'<div id="' + thisID + '" class="qvplaceholder item-height-1500k" ></div>' +
 				'</div>';
 
 
