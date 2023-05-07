@@ -1,0 +1,47 @@
+
+{
+  "reports" : [
+   {"reportName":"GROUP INCOME STATEMENT (USD)", "reportGroup":"consolidated", "divId":"QV02", "objectId": "a61be68a-2156-4616-96f8-b8bf7b21f1bb"},
+   {"reportName":"GROUP BALANCE SHEET", "reportGroup":"consolidated", "divId":"QV03", "objectId": "dae9498b-debb-4ef3-88bf-7ce218f6fde1"},
+   {"reportName":"GROUP CASH FLOW STATEMENT", "reportGroup":"consolidated", "divId":"QV04", "objectId": "SQCZdEp"},
+
+   {"reportName":"MALAWI INCOME STATEMENT ($USD)", "reportGroup":"malawi", "divId":"QV05", "objectId": "pzHu"},
+   {"reportName":"MALAWI TOP CUSTOMERS ($USD)", "reportGroup":"malawi", "divId":"QV06", "objectId": "vZfJe"},
+   {"reportName":"MALAWI OPERATING EXPENSES ($USD)", "reportGroup":"malawi", "divId":"QV07", "objectId": "TTqXba"},
+   {"reportName":"MALAWI BALANCE SHEET ($USD)", "reportGroup":"malawi", "divId":"QV08", "objectId": "dae9498b-debb-4ef3-88bf-7ce218f6fde1"},
+   {"reportName":"MALAWI CASH FLOW STATEMENT ($USD)", "reportGroup":"malawi", "divId":"QV09", "objectId": "SQCZdEp"},
+   {"reportName":"MALAWI UNIT SALES PROFIT AND LOSS ($USD)", "reportGroup":"malawi", "divId":"QV010", "objectId": "6cc6d139-d902-4a00-9b0b-3a00b15baec4"},
+   {"reportName":"MALAWI PARTS PROFIT AND LOSS ($USD)", "reportGroup":"malawi", "divId":"QV11", "objectId": "331ec410-0849-4dea-b210-cf444b05c3e3"},
+   {"reportName":"MALAWI CONTRACTS PROFIT AND LOSS ($USD)", "reportGroup":"malawi", "divId":"QV12", "objectId": "82c40a47-4ee2-4066-ac7c-ee669f71d78a"},
+   {"reportName":"MALAWI WORKSHOP PROFIT AND LOSS ($USD)", "reportGroup":"malawi", "divId":"QV013", "objectId": "7ce49193-7e6e-4769-b840-2d00d7028dc1"},
+   {"reportName":"MALAWI IRRIGATION PROFIT AND LOSS ($USD)", "reportGroup":"malawi", "divId":"QV14", "objectId": "3a58f54c-2778-482f-ac8c-bc07e273d9ee"},
+   {"reportName":"MALAWI AGRONOMY PROFIT AND LOSS ($USD)", "reportGroup":"malawi", "divId":"QV015", "objectId": "12b8a95f-bc7d-4c1c-a75f-1685a6113a1f"},
+
+
+   {"reportName":"ZAMBIA INCOME STATEMENT ($USD)", "reportGroup":"zambia", "divId":"QV16", "objectId": "pzHu"},
+   {"reportName":"ZAMBIA TOP CUSTOMERS ($USD)", "reportGroup":"zambia", "divId":"QV17", "objectId": "vZfJe"},
+   {"reportName":"ZAMBIA OPERATING EXPENSES ($USD)", "reportGroup":"zambia", "divId":"QV18", "objectId": "TTqXba"},
+   {"reportName":"ZAMBIA BALANCE SHEET ($USD)", "reportGroup":"zambia", "divId":"QV19", "objectId": "dae9498b-debb-4ef3-88bf-7ce218f6fde1"},
+   {"reportName":"ZAMBIA CASH FLOW STATEMENT ($USD)", "reportGroup":"zambia", "divId":"QV20", "objectId": "SQCZdEp"},
+   {"reportName":"ZAMBIA UNIT SALES PROFIT AND LOSS ($USD)", "reportGroup":"zambia", "divId":"QV21", "objectId": "6cc6d139-d902-4a00-9b0b-3a00b15baec4"},
+   {"reportName":"ZAMBIA PARTS PROFIT AND LOSS ($USD)", "reportGroup":"zambia", "divId":"QV22", "objectId": "331ec410-0849-4dea-b210-cf444b05c3e3"},
+   {"reportName":"ZAMBIA CONTRACTS PROFIT AND LOSS ($USD)", "reportGroup":"zambia", "divId":"QV23", "objectId": "82c40a47-4ee2-4066-ac7c-ee669f71d78a"},
+   {"reportName":"ZAMBIA WORKSHOP PROFIT AND LOSS ($USD)", "reportGroup":"zambia", "divId":"QV24", "objectId": "7ce49193-7e6e-4769-b840-2d00d7028dc1"},
+   {"reportName":"ZAMBIA IRRIGATION PROFIT AND LOSS ($USD)", "reportGroup":"zambia", "divId":"QV24", "objectId": "3a58f54c-2778-482f-ac8c-bc07e273d9ee"},
+   {"reportName":"ZAMBIA AGRONOMY PROFIT AND LOSS ($USD)", "reportGroup":"zambia", "divId":"QV26", "objectId": "12b8a95f-bc7d-4c1c-a75f-1685a6113a1f"},
+
+   {"reportName":"TANZANIA INCOME STATEMENT ($USD)", "reportGroup":"tanzania", "divId":"QV16", "objectId": "pzHu"},
+   {"reportName":"TANZANIA TOP CUSTOMERS ($USD)", "reportGroup":"tanzania", "divId":"QV17", "objectId": "vZfJe"},
+   {"reportName":"TANZANIA OPERATING EXPENSES ($USD)", "reportGroup":"tanzania", "divId":"QV18", "objectId": "TTqXba"},
+   {"reportName":"TANZANIA BALANCE SHEET ($USD)", "reportGroup":"tanzania", "divId":"QV19", "objectId": "dae9498b-debb-4ef3-88bf-7ce218f6fde1"},
+   {"reportName":"TANZANIA CASH FLOW STATEMENT ($USD)", "reportGroup":"tanzania", "divId":"QV20", "objectId": "SQCZdEp"},
+   {"reportName":"TANZANIA UNIT SALES PROFIT AND LOSS ($USD)", "reportGroup":"tanzania", "divId":"QV21", "objectId": "6cc6d139-d902-4a00-9b0b-3a00b15baec4"},
+   {"reportName":"TANZANIA PARTS PROFIT AND LOSS ($USD)", "reportGroup":"tanzania", "divId":"QV22", "objectId": "331ec410-0849-4dea-b210-cf444b05c3e3"},
+   {"reportName":"TANZANIA CONTRACTS PROFIT AND LOSS ($USD)", "reportGroup":"tanzania", "divId":"QV23", "objectId": "82c40a47-4ee2-4066-ac7c-ee669f71d78a"},
+   {"reportName":"TANZANIA WORKSHOP PROFIT AND LOSS ($USD)", "reportGroup":"tanzania", "divId":"QV24", "objectId": "7ce49193-7e6e-4769-b840-2d00d7028dc1"},
+   {"reportName":"TANZANIA IRRIGATION PROFIT AND LOSS ($USD)", "reportGroup":"tanzania", "divId":"QV24", "objectId": "3a58f54c-2778-482f-ac8c-bc07e273d9ee"},
+   {"reportName":"TANZANIA AGRONOMY PROFIT AND LOSS ($USD)", "reportGroup":"tanzania", "divId":"QV26", "objectId": "12b8a95f-bc7d-4c1c-a75f-1685a6113a1f"}
+
+
+  ]
+}
