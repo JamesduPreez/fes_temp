@@ -1,0 +1,119 @@
+
+:root {
+	 --page-width: 1550px;
+	 --item-margin-left:0px;
+	 --item-margin-right:0px;
+}
+
+body{
+
+ 	width: var(--page-width);
+	align-content: center;
+	justify-content: center;
+}
+
+.content {
+  width: var(--page-width);
+  margin: auto;
+}
+
+.item-margin{
+	margin-left:  var(--item-margin-left);
+	margin-right: var(--item-margin-right);
+}
+
+.calendar{
+	height: 50px;
+	margin-top: 45px;
+}
+
+.logo{
+	justify-content: end;
+	margin-left: 200px;
+}
+
+.report-description{
+	margin-top: 50px;
+}
+
+.consolidated-is{
+	margin-top: 10px;
+	min-height: 850px;
+}
+
+
+
+/* Qlik Original */
+
+.flex-container{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.qvplaceholder, .qvobject {
+	width: var(--page-width);
+}
+
+#popup {
+	background-color: #c3534b;
+	color: #FFFFFF;
+	position: fixed;
+	max-width: 250px;
+	padding: 10px;
+	margin: 10px;
+	bottom: 0;
+	right: 0;
+	display: none;
+	border-radius: 5px;
+	z-index: 6;
+	font-family: sans-serif;
+}
+
+.close {
+	cursor: pointer;
+	background: 0 0;
+	border: 0;
+	float: right;
+	font-size: 21px;
+	font-weight: 700;
+	line-height: 1;
+	color: #000;
+	text-shadow: 0 1px 0 #fff;
+	opacity: .2;
+	position: absolute;
+	right: 9px;
+	top: 7px;
+}
+
+.close:hover {
+	opacity: .5;
+}
+
+#popupText {
+	margin-right: 23px;
+}
+
+@media print {
+
+	.no-print {
+      visibility: hidden;
+   }
+
+    body {
+		margin-left: 0px;
+
+	}
+	.print_scale {
+	  margin-left: -70px;
+	  transform: scale(0.85);
+	}
+
+    table {
+		page-break-inside: avoid;
+	}
+
+	.pagebreak  {
+     page-break-before: always;
+  }
+
+}
